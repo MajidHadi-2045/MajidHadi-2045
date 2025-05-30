@@ -1,6 +1,5 @@
 ## Hello, My I'm Majid Solihin H. - aka Majid 👋
-Welcome to my profile! I'm excited to share a bit about who I am and what I'm passionate about.  
-Let’s connect, collaborate, and create something meaningful together!
+Welcome to my profile! I'm excited to share a bit about who I am and what I'm passionate about.  Let’s connect, collaborate, and create something meaningful together!
 ---
 # Majid Solihin Hadi
 
@@ -37,7 +36,7 @@ Gedong Meneng, Rajabasa, Bandar Lampung
 
 **Assistant – Telecommunication & Information Technology Laboratory**  
 *University of Lampung*  
-`2024 – Present`  
+`2025 – Present`  
 Assisting in lab classes and research activities related to communication networks and embedded systems.
 
 **Unila Robotics & Automation – University of Lampung**  
@@ -47,7 +46,7 @@ Acted as an official support member for the robotics team that won a category in
 
 **HIMATRO – University of Lampung**  
 *Staff – Events & Public Relations Division*  
-`2022 – Present`  
+`2022 – 2024`  
 Actively involved in:
 - Mentorship programs for Essay & Scientific Writing competitions
 - Organizing and supporting PKM events (Student Creativity Program)
