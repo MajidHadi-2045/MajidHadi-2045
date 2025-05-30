@@ -1,6 +1,4 @@
-## Hi there 👋
 ## Hello, My I'm Majid Solihin H. - aka Majid 👋
-
 Welcome to my profile! I'm excited to share a bit about who I am and what I'm passionate about.  
 Let’s connect, collaborate, and create something meaningful together!
 ---
