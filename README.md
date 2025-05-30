@@ -37,7 +37,7 @@ Gedong Meneng, Rajabasa, Bandar Lampung
 **Assistant – Telecommunication & Information Technology Laboratory**  
 *University of Lampung*  
 `2025 – Present`  
-Assisting in lab classes and research activities related to communication networks and embedded systems.
+Assisting in lab classes and research activities related to communication networks and IoT.
 
 **Unila Robotics & Automation – University of Lampung**  
 *Staff & Official Support Team – KRTI 2025*  
