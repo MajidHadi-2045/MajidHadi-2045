@@ -54,8 +54,9 @@ Actively involved in:
 ---
 ## 💻 Projects
 
-### 🧾 Final Project – Dicoding Web Intermediate Class  
-- **Deployed App:** [Story App Website](https://majidhadi-2045.github.io/Dicoding_Story-/)  
+### 🧾 Final Project – Dicoding Web Intermediate Class
+- **🌱𝐒𝐦𝐚𝐫𝐭 𝐂𝐎₂ – 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐂𝐚𝐫𝐛𝐨𝐧 𝐄𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐟𝐨𝐫 𝐒𝐮𝐬𝐭𝐚𝐢𝐧𝐚𝐛𝐥𝐞 𝐏𝐚𝐥𝐦 𝐎𝐢𝐥🌱:** [ ]
+- **Deployed App:** [Story App Website](https://majidhadi-2045.github.io/Dicoding_Story-/)   
 - **Source Code:** [GitHub Repository](https://github.com/MajidHadi-2045/Dicoding_Story-)
 
 ### 📱 Final Project – Dicoding Android Beginner Class  
