@@ -51,16 +51,6 @@ Actively involved in:
 - Mentorship programs for Essay & Scientific Writing competitions
 - Organizing and supporting PKM events (Student Creativity Program)
 
-**Rohis – SMAN 01 Tumijajar**  
-*Head of Public Relations Division*  
-`2020 – 2022`  
-Managed communication and public engagement for school religious activities and events.
-
-**PMR (Youth Red Cross) – SMAN 01 Tumijajar**  
-*Member & First Aid Team (PMI Volunteer)*  
-`2019 – 2022`  
-Provided basic first aid support in school and community activities, participated in health-related training sessions.
-
 ---
 ## 💻 Projects
 
