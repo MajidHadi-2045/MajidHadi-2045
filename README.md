@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Majid Solihin Hadi</h1>
-  <h3>Backend Developer • IoT Engineer • Electrical Engineering</h3>
+  <h3>Full-Stack Developer • IoT Engineer • Electrical Engineering</h3>
   <p>Bandar Lampung, Indonesia 🇮🇩</p>
 
   <a href="https://www.linkedin.com/in/majid-solihin-hadi-100759275"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,23 +12,28 @@
 
 ## 👨‍💻 Tentang Saya
 
-Saya adalah mahasiswa tingkat akhir Teknik Elektro dan Telekomunikasi di **Universitas Lampung** yang fokus pada pengembangan arsitektur *backend* berkinerja tinggi, sistem IoT, dan integrasi data *real-time*. 
+Saya adalah mahasiswa tingkat akhir Teknik Elektro dan Telekomunikasi di **Universitas Lampung** yang berfokus pada pengembangan sistem terintegrasi—mulai dari arsitektur *backend* berkinerja tinggi, sistem IoT *real-time*, hingga pengembangan *frontend* dan aplikasi *cross-platform*.
 
-Saya lebih suka bekerja dekat dengan infrastruktur—mulai dari mendesain skema database, mengonfigurasi *message broker*, hingga melakukan *load testing*. Saat ini, saya sedang meneliti arsitektur *event-driven* dan *in-memory caching* untuk memproses aliran data telemetri dalam jumlah besar secara efisien.
+Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastruktur, saya terbiasa mendesain skema database, mengonfigurasi *message broker*, dan melakukan *load testing* untuk aliran data telemetri yang besar. Di sisi klien (*client-side*), saya antusias menerjemahkan logika sistem yang kompleks menjadi antarmuka pengguna yang responsif, mulus, dan terintegrasi penuh dengan API.
 
-> **Fokus Utama:** Backend Architecture, Real-Time IoT Systems, Database Optimization, dan API Development, Frontend Development and cross-platform.
+> **Fokus Utama:** Backend Architecture, Real-Time IoT Systems, Database Optimization, API Development, Frontend Development, dan Cross-Platform Apps.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+**Backend & Core**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend & Cross-Platform**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Database & Caching**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,9 +60,10 @@ Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa saw
 *   **Teknologi:** Express.js, PostgreSQL.
 *   **Implementasi:** Membangun *endpoint* RESTful API yang andal untuk menerima dan mengolah data dari berbagai sensor IoT secara terukur. | [Live App](https://lnkd.in/g2CRUPW2)
 
-### 📚 RESTful API & Frontend Apps
+### 📱 Frontend & Cross-Platform Apps
+*   **Dicoding Story App:** Aplikasi berbasis *web* yang merender UI dinamis, terintegrasi penuh dengan ekosistem REST API Dicoding untuk autentikasi dan manajemen *state*. | [Website](https://majidhadi-2045.github.io/Dicoding_Story-/)
+*   **Recipe App (Android):** Aplikasi *mobile native* yang dibangun menggunakan **Kotlin** dan Android Studio, menerapkan arsitektur aplikasi Android dan prinsip desain antarmuka yang responsif. | [GitHub](https://github.com/MajidHadi-2045/My_resep_kue)
 *   **Bookshelf API:** Layanan *backend* mandiri untuk manajemen koleksi buku digital dengan validasi dan struktur *routing* yang rapi.
-*   **Dicoding Story App:** Aplikasi berbasis *web* terintegrasi dengan Dicoding API untuk autentikasi dan manajemen *state*. | [Website](https://majidhadi-2045.github.io/Dicoding_Story-/)
 
 ---
 
@@ -73,7 +79,7 @@ Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa saw
 
 ## 📬 Mari Berdiskusi
 
-Saya selalu terbuka untuk diskusi teknis, terutama mengenai rancangan *backend architecture*, integrasi IoT, optimasi performa sistem, atau peluang kolaborasi proyek. Jangan ragu untuk menyapa melalui:
+Saya selalu terbuka untuk diskusi teknis, terutama mengenai rancangan *backend architecture*, pengembangan aplikasi *cross-platform*, integrasi IoT, atau peluang kolaborasi proyek. Jangan ragu untuk menyapa melalui:
 
 - 💼 **LinkedIn:** [Majid Solihin Hadi](https://www.linkedin.com/in/majid-solihin-hadi-100759275)
 - 📧 **Email:** [majidsolihin.h.22@gmail.com](mailto:majidsolihin.h.22@gmail.com)
