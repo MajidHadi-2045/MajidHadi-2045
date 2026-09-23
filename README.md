@@ -78,7 +78,7 @@ Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastr
 ### 🐄 Smart Cattle Barn Monitoring System (Thesis Project)
 Sistem pemantauan ganda berskala besar yang memanfaatkan **hybrid event-driven architecture**.
 *   **Teknologi:** NestJS, PostgreSQL, Redis, Prisma ORM, MQTT, WebSockets.
-*   **Implementasi:** Menggunakan MQTT untuk transmisi data *real-time*, diproses oleh backend NestJS, dan dioptimalkan dengan Redis (*cache-aside strategy*) untuk menangani metrik sensor berkecepatan tinggi tanpa membebani database utama.
+*   **Implementasi:** Menggunakan MQTT untuk transmisi data *real-time*, diproses oleh backend NestJS, dan dioptimalkan dengan Redis (*cache-aside strategy*) untuk menangani metrik sensor berkecepatan tinggi tanpa membebani database utama. | [Live Website](https://smartcattlebarn.site/)
 
 ### 🌱 Smart CO₂ - Real-Time Dashboard
 Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa sawit yang berkelanjutan.
@@ -86,6 +86,7 @@ Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa saw
 *   **Implementasi:** Membangun *endpoint* RESTful API yang andal untuk menerima dan mengolah data dari berbagai sensor IoT secara terukur. | [Live App](https://lnkd.in/g2CRUPW2)
 
 ### 📱 Frontend & Cross-Platform Apps
+*   **Smart Cattle Barn Monitoring:** Aplikasi berbaisi React Native dengan ui yang ringan dan clean, terintegrasi langsung dengan backend dengan basis NestJS, MQTT, Redis, Prisma ORM dan database Postgre SQL | [Website] (https://smartcattlebarn.site/smartbarn.apk)
 *   **Dicoding Story App:** Aplikasi berbasis *web* yang merender UI dinamis, terintegrasi penuh dengan ekosistem REST API Dicoding untuk autentikasi dan manajemen *state*. | [Website](https://majidhadi-2045.github.io/Dicoding_Story-/)
 *   **Recipe App (Android):** Aplikasi *mobile native* yang dibangun menggunakan **Kotlin** dan Android Studio, menerapkan arsitektur aplikasi Android dan prinsip desain antarmuka yang responsif. | [GitHub](https://github.com/MajidHadi-2045/My_resep_kue)
 *   **Bookshelf API:** Layanan *backend* mandiri untuk manajemen koleksi buku digital dengan validasi dan struktur *routing* yang rapi.
