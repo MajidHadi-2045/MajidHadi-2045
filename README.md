@@ -14,7 +14,7 @@
 
 Saya adalah mahasiswa tingkat akhir Teknik Elektro dan Telekomunikasi di **Universitas Lampung** yang berfokus pada pengembangan sistem terintegrasi—mulai dari arsitektur *backend* berkinerja tinggi, sistem IoT *real-time*, hingga pengembangan *frontend* dan aplikasi *cross-platform*.
 
-Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastruktur, saya terbiasa mendesain skema database, mengonfigurasi *message broker*, dan melakukan *load testing* untuk aliran data telemetri yang besar. Di sisi klien (*client-side*), saya antusias menerjemahkan logika sistem yang kompleks menjadi antarmuka pengguna yang responsif, mulus, dan terintegrasi penuh dengan API.
+Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastruktur, saya terbiasa mendesain skema database, mengonfigurasi *message broker*, hingga menangani arsitektur jaringan. Di sisi klien (*client-side*), saya antusias menerjemahkan logika sistem yang kompleks menjadi antarmuka pengguna yang responsif, mulus, dan terintegrasi penuh dengan API.
 
 > **Fokus Utama:** Backend Architecture, Real-Time IoT Systems, Database Optimization, API Development, Frontend Development, dan Cross-Platform Apps.
 
@@ -48,6 +48,31 @@ Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastr
 
 ---
 
+## 💼 Pengalaman Kerja & Kepemimpinan
+
+*   **Lead Facilitator & Mentor (Full-Stack Web)** | *Coding Camp by DBS Foundation* (Feb - Jun 2026)
+    *   Memimpin dan mengoordinasikan 16 sesi konsultasi teknis/non-teknis serta 15 sesi *Instructor-Led Training* (ILT) dengan evaluasi performa sangat memuaskan (rating rata-rata 4.8/5.0).
+    *   Membimbing peserta binaan secara intensif, berkontribusi langsung pada pencapaian 88% tingkat kelulusan peserta tepat waktu.
+*   **Candidate Facilitator (Waitlisted) - AI Full-Stack** | *Dicoding* (Agt 2026 - Sekarang)
+*   **Asisten Laboratorium Telekomunikasi & IT** | *Universitas Lampung* (Feb 2025 - Feb 2026)
+    *   Mendampingi praktikum Sistem Komunikasi (SISKOM), pemodelan menggunakan MATLAB/Simulink, dan implementasi visualisasi data (*Dashboard Node*).
+*   **Customer Service Area Intern** | *PT. Telkom Akses* (Jul - Agt 2025)
+    *   Berpartisipasi langsung dalam manajemen infrastruktur internet berbasis serat optik (*Fiber to the Home*/FTTH), instalasi *splitter/coupler*, dan inspeksi kabinet server.
+*   **Official Support Team (KRTI)** | *Unila Robotics & Automation* (Apr 2024 - Mei 2025)
+    *   Mendukung penuh tim robotika Universitas Lampung pada ajang Kontes Robot Terbang Indonesia (KRTI) melalui pengembangan aplikasi Android dan desain 3D.
+
+---
+
+## 🏆 Pencapaian & Program Intensif
+
+*   🌟 **Lulusan Terbaik (In Best Graduate) - Full-Stack Web Development** | *Coding Camp by DBS Foundation* (Feb - Jul 2025)
+*   **Graduate - React Native & React.js** | *Asah by Dicoding* (Agt - Des 2025)
+*   **Participant - Summer Course SCoMOA 2023** | *Institut Teknologi Bandung (ITB)* (Jul - Agt 2023)
+    *   Mempelajari fundamental optik, *optical waveguides*, *photonics*, dan *plasmonics* langsung dari pakar internasional dan BRIN.
+*   **Staff Divisi Event & PR** | *HIMATRO Universitas Lampung* (Des 2022 - Feb 2025)
+
+---
+
 ## 🚀 Proyek Pilihan
 
 ### 🐄 Smart Cattle Barn Monitoring System (Thesis Project)
@@ -67,19 +92,9 @@ Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa saw
 
 ---
 
-## 💼 Pengalaman & Organisasi
-
-*   **Candidate Facilitator (Waitlisted) - AI Full-Stack Developer** | *Dicoding* (Agt 2026 - Sekarang)
-*   **Asisten Laboratorium Telekomunikasi & IT** | *Universitas Lampung* (2025 - Sekarang)
-*   **Awardee Coding Camp 2025 (Full-Stack Web)** | *DBS Foundation* (Jul 2025)
-*   **Official Support Team (KRTI 2025)** | *Unila Robotics & Automation* (2024 - Sekarang)
-*   **Staff Divisi Event & PR** | *HIMATRO Unila* (2022 - 2024)
-
----
-
 ## 📬 Mari Berdiskusi
 
-Saya selalu terbuka untuk diskusi teknis, terutama mengenai rancangan *backend architecture*, pengembangan aplikasi *cross-platform*, integrasi IoT, atau peluang kolaborasi proyek. Jangan ragu untuk menyapa melalui:
+Saya selalu terbuka untuk diskusi teknis, terutama mengenai rancangan *backend architecture*, pengembangan aplikasi *cross-platform*, integrasi infrastruktur/IoT, atau peluang kolaborasi proyek. Jangan ragu untuk menyapa melalui:
 
 - 💼 **LinkedIn:** [Majid Solihin Hadi](https://www.linkedin.com/in/majid-solihin-hadi-100759275)
 - 📧 **Email:** [majidsolihin.h.22@gmail.com](mailto:majidsolihin.h.22@gmail.com)
