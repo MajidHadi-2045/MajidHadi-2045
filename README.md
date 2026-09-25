@@ -100,7 +100,7 @@ Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa saw
 *   **Smart Cattle Barn Monitoring:** Aplikasi berbaisi React Native dengan ui yang ringan dan clean, terintegrasi langsung dengan backend dengan basis NestJS, MQTT, Redis, Prisma ORM dan database Postgre SQL | [Website] (https://smartcattlebarn.site/smartbarn.apk)
 *   **Dicoding Story App:** Aplikasi berbasis *web* yang merender UI dinamis, terintegrasi penuh dengan ekosistem REST API Dicoding untuk autentikasi dan manajemen *state*. | [Website](https://majidhadi-2045.github.io/Dicoding_Story-/)
 *   **Recipe App (Android):** Aplikasi *mobile native* yang dibangun menggunakan **Kotlin** dan Android Studio, menerapkan arsitektur aplikasi Android dan prinsip desain antarmuka yang responsif. | [GitHub](https://github.com/MajidHadi-2045/My_resep_kue)
-*   **Bookshelf API:** Layanan *backend* mandiri untuk manajemen koleksi buku digital dengan validasi dan struktur *routing* yang rapi..
+*   **Bookshelf API:** Layanan *backend* mandiri untuk manajemen koleksi buku digital dengan validasi dan struktur *routing* yang rapi.
 
 ---
 
