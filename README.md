@@ -14,7 +14,7 @@
 
 Saya adalah mahasiswa tingkat akhir Teknik Elektro dan Telekomunikasi di **Universitas Lampung** yang berfokus pada pengembangan sistem terintegrasi, mulai dari arsitektur *backend* berkinerja tinggi, sistem IoT *real-time*, hingga pengembangan *frontend* dan aplikasi *cross-platform*.
 
-Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastruktur, saya terbiasa mendesain skema database, mengonfigurasi *message broker*, hingga menangani arsitektur jaringan. Di sisi klien (*client-side*), saya antusias menerjemahkan logika sistem yang kompleks menjadi antarmuka pengguna yang responsif, mulus, dan terintegrasi penuh dengan API.
+Saya gemar merancang sitem end-to-end. Di sisi infrastruktur, saya terbiasa mendesain skema database, mengonfigurasi *message broker*, hingga menangani arsitektur jaringan. Di sisi klien (*client-side*), saya antusias menerjemahkan logika sistem yang kompleks menjadi antarmuka pengguna yang responsif, mulus, dan terintegrasi penuh dengan API.
 
 > **Fokus Utama:** Backend Architecture, Real-Time IoT Systems, Database Optimization, API Development, Frontend Development, dan Cross-Platform Apps.
 
@@ -84,7 +84,7 @@ Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastr
 
 ---
 
-## 🚀 Proyek Pilihan hahjdjdjaj
+## 🚀 Proyek Pilihan
 
 ### 🐄 Smart Cattle Barn Monitoring System (Thesis Project)
 Sistem pemantauan ganda berskala besar yang memanfaatkan **hybrid event-driven architecture**.
