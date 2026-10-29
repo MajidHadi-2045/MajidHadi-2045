@@ -94,7 +94,7 @@ Sistem pemantauan ganda berskala besar yang memanfaatkan **hybrid event-driven a
 ### 🌱 Smart CO₂ - Real-Time Dashboard
 Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa sawit yang berkelanjutan.
 *   **Teknologi:** Express.js, PostgreSQL.
-*   **Implementasi:** Membangun *endpoint* RESTful API yang andal untuk menerima dan mengolah data dari berbagai sensor IoT secara terukur. | [Live App](https://lnkd.in/g2CRUPW2)
+*   **Implementasi:** Membangun *endpoint* RESTful API yang andal untuk menerima dan mengolah data dari berbagai sensor IoT secara terukur. | [Live Website](https://transcendent-centaur-5d7b9a.netlify.app/)
 
 ### 📱 Frontend & Cross-Platform Apps
 *   **Smart Cattle Barn Monitoring:** Aplikasi berbaisi React Native dengan ui yang ringan dan clean, terintegrasi langsung dengan backend dengan basis NestJS, MQTT, Redis, Prisma ORM dan database Postgre SQL | [Website] (https://smartcattlebarn.site/smartbarn.apk)
