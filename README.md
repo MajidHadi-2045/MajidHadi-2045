@@ -84,7 +84,7 @@ Saya gemar merancang sistem dari ujung ke ujung (*end-to-end*). Di sisi infrastr
 
 ---
 
-## 🚀 Proyek Pilihan
+## 🚀 Proyek Pilihan hahjdjdjaj
 
 ### 🐄 Smart Cattle Barn Monitoring System (Thesis Project)
 Sistem pemantauan ganda berskala besar yang memanfaatkan **hybrid event-driven architecture**.
