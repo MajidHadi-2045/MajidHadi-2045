@@ -89,7 +89,7 @@ Saya gemar merancang sitem end-to-end. Di sisi infrastruktur, saya terbiasa mend
 ### 🐄 Smart Cattle Barn Monitoring System (Thesis Project)
 Sistem pemantauan ganda berskala besar yang memanfaatkan **hybrid event-driven architecture**.
 *   **Teknologi:** NestJS, PostgreSQL, Redis, Prisma ORM, MQTT, WebSockets.
-*   **Implementasi:** Menggunakan MQTT untuk transmisi data *real-time*, diproses oleh backend NestJS, dan dioptimalkan dengan Redis (*cache-aside strategy*) untuk menangani metrik sensor berkecepatan tinggi tanpa membebani database utama. | [Live Website](https://smartcattlebarn.site/smartbarn.apk)
+*   **Implementasi:** Menggunakan MQTT untuk transmisi data *real-time*, diproses oleh backend NestJS, dan dioptimalkan dengan Redis (*cache-aside strategy*) untuk menangani metrik sensor berkecepatan tinggi tanpa membebani database utama. | [Live Website](https://smartcattlebarn.site)
 
 ### 🌱 Smart CO₂ - Real-Time Dashboard
 Backend pemantauan emisi karbon dan cuaca untuk lingkungan perkebunan kelapa sawit yang berkelanjutan.
